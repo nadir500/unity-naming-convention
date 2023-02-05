@@ -16,7 +16,7 @@ The code in this project follows a clear and consistent naming convention to mak
 
 Example:
 
-`
+```
 Assets/
   Scripts/
     Character/
@@ -35,7 +35,7 @@ Assets/
       GameManager.cs
       Main.cs
       SceneLoader.cs
-`
+```
 
 
 ## Prefab Naming Convention
@@ -52,13 +52,13 @@ The prefabs in this project also follow a clear and consistent naming convention
 
 Example:
 
-`
+```
 Assets/
   Prefabs/
     Characters/
       prefab_PlayerCharacter.prefab
       prefab_N
-`
+```
 
 ## Rest Of The Files Naming Convention
 
